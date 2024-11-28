@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Factoriapp</string>
+
+    <!-- Texts -->
+    <string name="field_hint">Write number to calculate</string>
+
+    <!-- Buttons -->
+    <string name="button_factorial">Factorial</string>
+    <string name="button_time_stamp">Time Stamp</string>
+</resources>
